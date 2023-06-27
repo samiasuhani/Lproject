@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Mr. John Smith",
+        "e-mail": "john@smith.com",
+        "username": "john",
+        "gender": "male",
+        "dob": "2022-10-11"
+    },
+    {
+        "name": "Ms. Jane Smith",
+        "e-mail": "jane@email.com",
+        "username": "jane",
+        "gender": "female",
+        "dob": "2022-10-05"
+    },
+    {
+        "name": "Jim Smith",
+        "e-mail": "jim@email.com",
+        "username": "jim",
+        "gender": "male",
+        "dob": "2023-02-09"
+    },
+    {
+        "name": "Mike Hanigan",
+        "e-mail": "mike@email.com",
+        "username": "mike",
+        "gender": "male",
+        "dob": "2023-02-02"
+    },
+    {
+        "name": "SAMIA SUHANI",
+        "e-mail": "samiasuhani229@gmail.com",
+        "username": "suhani229",
+        "gender": "female",
+        "dob": "1999-04-01"
+    },
+    {
+        "name": "SAMIA SUHANI",
+        "e-mail": "samiasuhani229@gmail.com",
+        "username": "suhani229",
+        "gender": "female",
+        "dob": "1999-04-01"
+    },
+    {
+        "name": "suha",
+        "e-mail": "suha@gmail.com",
+        "username": "suha",
+        "gender": "male",
+        "dob": "1999-10-25"
+    }
+]
